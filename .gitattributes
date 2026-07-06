@@ -1,0 +1,3 @@
+# The notebook's content is Python; have GitHub's language stats reflect
+# that instead of labelling the repo "Jupyter Notebook".
+*.ipynb linguist-language=Python
